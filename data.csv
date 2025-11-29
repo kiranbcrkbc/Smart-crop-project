@@ -1,0 +1,8 @@
+nitrogen,phosphorus,potassium,temperature,humidity,ph,rainfall,predicted_crop
+10.0,10.0,10.0,25.0,60.0,6.5,200.0,Sugarcane
+80.0,40.0,40.0,25.0,85.0,300.0,200.0,Cotton
+88.0,50.0,55.0,26.0,60.0,6.5,200.0,Sugarcane
+10.0,10.0,10.0,25.0,60.0,6.5,200.0,Sugarcane
+80.0,40.0,40.0,25.0,85.0,5.2,300.0,Rice
+10.0,10.0,10.0,25.0,60.0,6.5,200.0,Sugarcane
+10.0,10.0,10.0,25.0,60.0,5.2,200.0,Rice
